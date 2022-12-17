@@ -86,9 +86,9 @@
         "image": "https://res.cloudinary.com/ceenobi/image/upload/v1629976310/Gadgets/bbd.hpthumb.fazepowerbeatspro.desktoptall.jpg.large.2x_c8lo3p.jpg"
       },
       "images": [
-        "https://res.cloudinary.com/ceenobi/image/upload/v1630107522/Gadgets/beatsflex-global-blue.png.large.2x_ago5h1.png",
-        "https://res.cloudinary.com/ceenobi/image/upload/v1630107523/Gadgets/beatsflex-global-yellow.png.large.2x_xebm7w.png",
-        "https://res.cloudinary.com/ceenobi/image/upload/v1630002007/Gadgets/bbd.plpassset.earphones.beatsflex.jpg.large.2x_n2wkqr.jpg"
+        "https://res.cloudinary.com/ceenobi/image/upload/b_rgb:e5e0e0/v1630107522/Gadgets/beatsflex-global-blue.png.large.2x_ago5h1.png",
+        "https://res.cloudinary.com/ceenobi/image/upload/b_rgb:e5e0e0/v1630107523/Gadgets/beatsflex-global-yellow.png.large.2x_xebm7w.png",
+        "https://res.cloudinary.com/ceenobi/image/upload/b_rgb:e5e0e0/v1630002007/Gadgets/bbd.plpassset.earphones.beatsflex.jpg.large.2x_n2wkqr.jpg"
       ]
     },
     {
@@ -301,18 +301,18 @@
     },
     {
       "id": 18,
-      "title": "Beats Studio Core 3",
+      "title": "Beats Power Core 3",
       "price": 350,
-      "description": "More then just an earpiece, do more with Google assistant.",
+      "description": "More then just an earpiece, talk more with the Beats Power Core 3.",
       "category": {
         "id": 4,
         "name": "Earpiece",
         "image": "https://res.cloudinary.com/ceenobi/image/upload/v1629976310/Gadgets/bbd.hpthumb.fazepowerbeatspro.desktoptall.jpg.large.2x_c8lo3p.jpg"
       },
       "images": [
-        "https://res.cloudinary.com/ceenobi/image/upload/v1630112680/Gadgets/studio3-core-red.png.large.2x_kqpz0k.png",
-        "https://res.cloudinary.com/ceenobi/image/upload/v1630112680/Gadgets/studio3-core-white.png.large.2x_x5buei.png",
-        "https://res.cloudinary.com/ceenobi/image/upload/v1630112680/Gadgets/studio3-core-blue.png.large.2x_hqeann.png"
+        "https://res.cloudinary.com/ceenobi/image/upload/b_rgb:dadada/v1630110963/Gadgets/pp-global-producttile-glacierblue.png.large.2x_i49q3u.png",
+        "https://res.cloudinary.com/ceenobi/image/upload/b_rgb:dadada/v1630110963/Gadgets/pp-global-producttile-cloudpink.png.large.2x_yf3lqj.png",
+        "https://res.cloudinary.com/ceenobi/image/upload/b_rgb:dadada/v1630110963/Gadgets/pp-global-producttile-lavared.png.large.2x_wm6oe3.png"
       ]
     },
     {
