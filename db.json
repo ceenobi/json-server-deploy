@@ -1,6 +1,4 @@
 {
-  "users": [
-  ],
   "categories": [
     {
       "id": 1,
@@ -21,6 +19,11 @@
       "id": 4,
       "name": "Earpiece",
       "image": "https://res.cloudinary.com/ceenobi/image/upload/v1629976310/Gadgets/bbd.hpthumb.fazepowerbeatspro.desktoptall.jpg.large.2x_c8lo3p.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Furniture",
+      "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1671235109/Fashion/download_fnompq.jpg"
     }
   ],
   "products": [
@@ -88,7 +91,6 @@
         "https://res.cloudinary.com/ceenobi/image/upload/v1630002007/Gadgets/bbd.plpassset.earphones.beatsflex.jpg.large.2x_n2wkqr.jpg"
       ]
     },
-
     {
       "id": 5,
       "title": "Striped jacquard wool knit sweater",
@@ -185,7 +187,6 @@
         "https://media.gucci.com/style/HEXEAF2DC_Center_0_0_1200x1200/1660342570/631685_UM8IG_2546_003_100_0000_Light-GG-Matelass-medium-tote.jpg"
       ]
     },
-
     {
       "id": 11,
       "title": "G-Timeless watch, 36mm",
@@ -250,7 +251,6 @@
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1648488616/662407_9PPL2_9004_008_100_0000_Light-04-Crayon-Contour-des-Lvres-Lip-Liner-Pencil.jpg"
       ]
     },
-
     {
       "id": 15,
       "title": "Beats Studio Buds",
@@ -267,7 +267,6 @@
         "https://res.cloudinary.com/ceenobi/image/upload/v1630002011/Gadgets/bbd.plpasset.earphones.studiobuds.jpg.large.2x_ja8oe2.jpg"
       ]
     },
-
     {
       "id": 16,
       "title": "Airpods Pro 2",
@@ -346,6 +345,86 @@
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1643737549/691790_9PRD9_9607_001_100_0000_Light-607-Vanessa-Violet-Rouge-Lvres-Liquide-Mat-Lipstick.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1643737550/691790_9PRD9_9607_002_100_0000_Light-607-Vanessa-Violet-Rouge-Lvres-Liquide-Mat-Lipstick.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1644252343/691790_9PRD9_9607_005_100_0000_Light-607-Vanessa-Violet-Rouge-Lvres-Liquide-Mat-Lipstick.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Floral jacquard armchair",
+      "price": 750,
+      "description": "This armchair appears in a luxurious blue moire fabric on the front, while an intricate floral jacquard upholstery decorates the back. The seat is trimmed with black braiding and fringes, enhancing the vintage silhouette.",
+      "category": {
+        "id": 5,
+        "name": "Furniture",
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1671235109/Fashion/download_fnompq.jpg"
+      },
+      "images": [
+        "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1659973520/696592_ZAJDO_4670_001_100_0000_Light-Floral-jacquard-armchair.jpg",
+        "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1659973524/696592_ZAJDO_4670_002_100_0000_Light-Floral-jacquard-armchair.jpg",
+        "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1659973531/696592_ZAJDO_4670_004_100_0000_Light-Floral-jacquard-armchair.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "GG jacquard armchair",
+      "price": 550,
+      "description": "The whimsical design of the armchair is enhanced by GG pattern jacquard upholstery interspersed with bees, stars and hearts—codes that have become synonymous with the House. The seat is trimmed with braided and knotted fringes, accented by brass nail heads that highlight the silhouette.",
+      "category": {
+        "id": 5,
+        "name": "Furniture",
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1671235109/Fashion/download_fnompq.jpg"
+      },
+      "images": [
+        "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1554750913/528279_ZAB9Y_1226_001_100_0000_Light-GG-jacquard-armchair.jpg",
+        "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1554750913/528279_ZAB9Y_1226_004_100_0000_Light-GG-jacquard-armchair.jpg",
+        "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1554750913/528279_ZAB9Y_1226_005_100_0000_Light-GG-jacquard-armchair.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Capitonnè camelback sofa",
+      "price": 2550,
+      "description": "Inspired by 18th century designs, the camelback silhouette is characterized by an arched back and defined lines. This interpretation of the sofa is presented in deep red velvet and further elevated by capitonnè stitching.",
+      "category": {
+        "id": 5,
+        "name": "Furniture",
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1671235109/Fashion/download_fnompq.jpg"
+      },
+      "images": [
+        "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1562168706/589681_ZACS9_6235_001_100_0000_Light-Capitonn-camelback-sofa.jpg",
+        "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1562168706/589681_ZACS9_6235_004_100_0000_Light-Capitonn-camelback-sofa.jpg",
+        "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1562168706/589681_ZACS9_6235_005_100_0000_Light-Capitonn-camelback-sofa.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Hooded Capitonnè armchair",
+      "price": 2200,
+      "description": "With a high back, hand rests and hollow shape which is designed to envelop, the hood chair is a traditional shape which stems from furniture found in estates in medieval England and France. This piece interprets the design in deep blue leather and elevates it further through capitonnè stitching.",
+      "category": {
+        "id": 5,
+        "name": "Furniture",
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1671235109/Fashion/download_fnompq.jpg"
+      },
+      "images": [
+        "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1659975352/527770_ZAW54_3608_003_100_0000_Light-Hooded-Capitonn-armchair.jpg",
+        "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1659975354/527770_ZAW54_3608_004_100_0000_Light-Hooded-Capitonn-armchair.jpg",
+        "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1659975357/527770_ZAW54_3608_005_100_0000_Light-Hooded-Capitonn-armchair.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Wood chair with embroidered bee",
+      "price": 999,
+      "description": "The intricate motifs are embroidered and then hand-applied, a process that takes approximately 10 hours to complete. Brass nail heads detail the edges of the cushion.",
+      "category": {
+        "id": 5,
+        "name": "Furniture",
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1671235109/Fashion/download_fnompq.jpg"
+      },
+      "images": [
+        "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1504035012/483918_ZAW10_6125_001_100_0000_Light-Wood-chair-with-embroidered-bee.jpg",
+        "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1504035012/483918_ZAW10_6125_002_100_0000_Light-Wood-chair-with-embroidered-bee.jpg",
+        "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1504035013/483918_ZAW10_6125_004_100_0000_Light-Wood-chair-with-embroidered-bee.jpg"
       ]
     }
   ]
