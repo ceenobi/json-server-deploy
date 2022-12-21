@@ -41,7 +41,8 @@
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1567584906/596512_I1600_8504_001_100_0000_Light-Grip-watch-38mm.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1567584906/596512_I1600_8504_002_100_0000_Light-Grip-watch-38mm.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1570035605/596512_I1600_8504_008_100_0000_Light-Grip-watch-38mm.jpg"
-      ]
+      ],
+      "categoryId": 2
     },
     {
       "id": 2,
@@ -57,7 +58,8 @@
         "https://media.gucci.com/style/DarkGray_South_0_160_540x540/1670954450/729362_XKC0G_9118_001_100_0000_Light-Wool-knit-hooded-bomber.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1670954462/729362_XKC0G_9118_010_100_0000_Light-Wool-knit-hooded-bomber.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1670954454/729362_XKC0G_9118_002_100_0000_Light-Wool-knit-hooded-bomber.jpg"
-      ]
+      ],
+      "categoryId": 1
     },
     {
       "id": 3,
@@ -73,7 +75,8 @@
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1664471777/717879_J810A_9573_001_100_0000_Light-GUCCI-25H-watch-40mm.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1664471778/717879_J810A_9573_002_100_0000_Light-GUCCI-25H-watch-40mm.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1664471780/717879_J810A_9573_003_100_0000_Light-GUCCI-25H-watch-40mm.jpg"
-      ]
+      ],
+      "categoryId": 2
     },
     {
       "id": 4,
@@ -89,7 +92,8 @@
         "https://res.cloudinary.com/ceenobi/image/upload/b_rgb:e5e0e0/v1630107522/Gadgets/beatsflex-global-blue.png.large.2x_ago5h1.png",
         "https://res.cloudinary.com/ceenobi/image/upload/b_rgb:e5e0e0/v1630107523/Gadgets/beatsflex-global-yellow.png.large.2x_xebm7w.png",
         "https://res.cloudinary.com/ceenobi/image/upload/b_rgb:e5e0e0/v1630002007/Gadgets/bbd.plpassset.earphones.beatsflex.jpg.large.2x_n2wkqr.jpg"
-      ]
+      ],
+      "categoryId": 4
     },
     {
       "id": 5,
@@ -105,7 +109,8 @@
         "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_1200x1200/1669920428/724770_XKCWH_8050_001_100_0000_Light-Striped-jacquard-wool-knit-sweater.jpg",
         "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_1200x1200/1669920433/724770_XKCWH_8050_003_100_0000_Light-Striped-jacquard-wool-knit-sweater.jpg",
         "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_1200x1200/1669920435/724770_XKCWH_8050_005_100_0000_Light-Striped-jacquard-wool-knit-sweater.jpg"
-      ]
+      ],
+      "categoryId": 1
     },
     {
       "id": 6,
@@ -121,7 +126,8 @@
         "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_1200x1200/1669919497/729380_XKC0J_7021_001_100_0000_Light-GG-jacquard-wool-knit-sweater.jpg",
         "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_1200x1200/1669919508/729380_XKC0J_7021_010_100_0000_Light-GG-jacquard-wool-knit-sweater.jpg",
         "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_1200x1200/1669919504/729380_XKC0J_7021_005_100_0000_Light-GG-jacquard-wool-knit-sweater.jpg"
-      ]
+      ],
+      "categoryId": 1
     },
     {
       "id": 7,
@@ -137,7 +143,8 @@
         "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_1200x1200/1669660216/722473_Z6519_4440_001_100_0000_Light-Light-cashmere-twill-formal-jacket.jpg",
         "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_1200x1200/1669660227/722473_Z6519_4440_014_100_0000_Light-Light-cashmere-twill-formal-jacket.jpg",
         "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_1200x1200/1669660222/722473_Z6519_4440_006_100_0000_Light-Light-cashmere-twill-formal-jacket.jpg"
-      ]
+      ],
+      "categoryId": 1
     },
     {
       "id": 8,
@@ -153,7 +160,8 @@
         "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_1200x1200/1669921332/721273_ZAK72_1165_001_100_0000_Light-Wool-cashmere-formal-jacket.jpg",
         "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_1200x1200/1669921336/721273_ZAK72_1165_002_100_0000_Light-Wool-cashmere-formal-jacket.jpg",
         "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_1200x1200/1669921341/721273_ZAK72_1165_005_100_0000_Light-Wool-cashmere-formal-jacket.jpg"
-      ]
+      ],
+      "categoryId": 1
     },
     {
       "id": 9,
@@ -169,7 +177,8 @@
         "https://media.gucci.com/style/HEXEAF2DC_Center_0_0_1200x1200/1646244035/659983_UULBT_9683_002_078_0000_Light-Small-tote-bag-with-Interlocking-G.jpg",
         "https://media.gucci.com/style/HEXEAF2DC_Center_0_0_1200x1200/1653948997/659983_UULBT_9683_004_100_0000_Light-Small-tote-bag-with-Interlocking-G.jpg",
         "https://media.gucci.com/style/HEXEAF2DC_Center_0_0_1200x1200/1653948998/659983_UULBT_9683_005_100_0000_Light-Small-tote-bag-with-Interlocking-G.jpg"
-      ]
+      ],
+      "categoryId": 1
     },
     {
       "id": 10,
@@ -185,7 +194,8 @@
         "https://media.gucci.com/style/HEXEAF2DC_Center_0_0_1200x1200/1654726537/631685_UM8IG_2546_001_100_0000_Light-GG-Matelass-medium-tote.jpg",
         "https://media.gucci.com/style/HEXEAF2DC_Center_0_0_1200x1200/1654726538/631685_UM8IG_2546_002_100_0000_Light-GG-Matelass-medium-tote.jpg",
         "https://media.gucci.com/style/HEXEAF2DC_Center_0_0_1200x1200/1660342570/631685_UM8IG_2546_003_100_0000_Light-GG-Matelass-medium-tote.jpg"
-      ]
+      ],
+      "categoryId": 1
     },
     {
       "id": 11,
@@ -201,7 +211,8 @@
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1583149504/632116_I1600_1402_001_100_0000_Light-G-Timeless-watch-36mm.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1583149504/632116_I1600_1402_002_100_0000_Light-G-Timeless-watch-36mm.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1586958303/632116_I1600_1402_008_100_0000_Light-G-Timeless-watch-36mm.jpg"
-      ]
+      ],
+      "categoryId": 2
     },
     {
       "id": 12,
@@ -217,7 +228,8 @@
         "https://media.gucci.com/style/HEXE0E8E5_Center_0_0_1200x1200/1663344092/717868_I86A0_9793_001_100_0000_Light-G-Timeless-watch-with-bee-29-mm.jpg",
         "https://media.gucci.com/style/HEXE0E8E5_Center_0_0_1200x1200/1663344095/717868_I86A0_9793_002_100_0000_Light-G-Timeless-watch-with-bee-29-mm.jpg",
         "https://media.gucci.com/style/HEXE0E8E5_Center_0_0_1200x1200/1668815139/717868_I86A0_9793_003_100_0000_Light-G-Timeless-watch-with-bee-29-mm.jpg"
-      ]
+      ],
+      "categoryId": 2
     },
     {
       "id": 13,
@@ -233,7 +245,8 @@
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1632268804/679170_9PLP8_9520_001_100_0000_Light-520-Marina-Scarlet-Limited-Edition-Rouge-Lvres-Voile.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1632268804/679170_9PLP8_9520_002_100_0000_Light-520-Marina-Scarlet-Limited-Edition-Rouge-Lvres-Voile.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1632933909/679170_9PLP8_9520_004_100_0000_Light-520-Marina-Scarlet-Limited-Edition-Rouge-Lvres-Voile.jpg"
-      ]
+      ],
+      "categoryId": 3
     },
     {
       "id": 14,
@@ -249,7 +262,8 @@
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1611680408/662407_9PPL2_9004_001_100_0000_Light-04-Crayon-Contour-des-Lvres-Lip-Liner-Pencil.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1611680408/662407_9PPL2_9004_002_100_0000_Light-04-Crayon-Contour-des-Lvres-Lip-Liner-Pencil.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1648488616/662407_9PPL2_9004_008_100_0000_Light-04-Crayon-Contour-des-Lvres-Lip-Liner-Pencil.jpg"
-      ]
+      ],
+      "categoryId": 3
     },
     {
       "id": 15,
@@ -265,7 +279,8 @@
         "https://res.cloudinary.com/ceenobi/image/upload/v1630068876/Gadgets/studiobuds-global-red.png.large.2x_x3kydk.png",
         "https://res.cloudinary.com/ceenobi/image/upload/v1630068876/Gadgets/studiobuds-global-black.png.large.2x_e93p44.png",
         "https://res.cloudinary.com/ceenobi/image/upload/v1630002011/Gadgets/bbd.plpasset.earphones.studiobuds.jpg.large.2x_ja8oe2.jpg"
-      ]
+      ],
+      "categoryId": 4
     },
     {
       "id": 16,
@@ -281,7 +296,8 @@
         "https://res.cloudinary.com/ceenobi/image/upload/v1655239053/Gadgets/APPACCAIRPODSPROL20213_dbocxv.png",
         "https://res.cloudinary.com/ceenobi/image/upload/v1655243350/Gadgets/airpods_pro_2_gmkrks.jpg",
         "https://res.cloudinary.com/ceenobi/image/upload/v1655235521/Gadgets/Air2_rj4fuq.png"
-      ]
+      ],
+      "categoryId": 4
     },
     {
       "id": 17,
@@ -297,7 +313,8 @@
         "https://res.cloudinary.com/ceenobi/image/upload/v1654267741/Gadgets/ndNuL_pKdZB3sXoNyYcpDaqY0kLCIihdOHYsEmRsExq1zN57sBt_uTS3J2q5Y0kTsprpjSaXYkKyaoVKkAjYZxUL_5pjGafO7g_rw-e365-w1182_kypv8v.webp",
         "https://res.cloudinary.com/ceenobi/image/upload/v1654006139/Gadgets/unnamed_syujxy.png",
         "https://res.cloudinary.com/ceenobi/image/upload/v1654267095/Gadgets/kJ0MgfgYyT4ky0nLTTDuptydsF4wE5WKQID1_58c8Fh4twhHTlLiQAxRUepyfAT0YaNyLkE4Syr1ceRRQxDR36-VugDqKnO0gg_rw-e365-w1000_pncunw.webp"
-      ]
+      ],
+      "categoryId": 4
     },
     {
       "id": 18,
@@ -313,7 +330,8 @@
         "https://res.cloudinary.com/ceenobi/image/upload/b_rgb:dadada/v1630110963/Gadgets/pp-global-producttile-glacierblue.png.large.2x_i49q3u.png",
         "https://res.cloudinary.com/ceenobi/image/upload/b_rgb:dadada/v1630110963/Gadgets/pp-global-producttile-cloudpink.png.large.2x_yf3lqj.png",
         "https://res.cloudinary.com/ceenobi/image/upload/b_rgb:dadada/v1630110963/Gadgets/pp-global-producttile-lavared.png.large.2x_wm6oe3.png"
-      ]
+      ],
+      "categoryId": 4
     },
     {
       "id": 19,
@@ -329,7 +347,8 @@
         "https://media.gucci.com/style/HEXEAF2DC_Center_0_0_1200x1200/1645746328/678842_U3ZDT_9982_001_082_0000_Light-Gucci-Diana-medium-tote-bag.jpg",
         "https://media.gucci.com/style/HEXEAF2DC_Center_0_0_1200x1200/1645746329/678842_U3ZDT_9982_002_082_0000_Light-Gucci-Diana-medium-tote-bag.jpg",
         "https://media.gucci.com/style/HEXEAF2DC_Center_0_0_1200x1200/1650061809/678842_U3ZDT_9982_003_100_0000_Light-Gucci-Diana-medium-tote-bag.jpg"
-      ]
+      ],
+      "categoryId": 1
     },
     {
       "id": 20,
@@ -345,7 +364,8 @@
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1643737549/691790_9PRD9_9607_001_100_0000_Light-607-Vanessa-Violet-Rouge-Lvres-Liquide-Mat-Lipstick.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1643737550/691790_9PRD9_9607_002_100_0000_Light-607-Vanessa-Violet-Rouge-Lvres-Liquide-Mat-Lipstick.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1644252343/691790_9PRD9_9607_005_100_0000_Light-607-Vanessa-Violet-Rouge-Lvres-Liquide-Mat-Lipstick.jpg"
-      ]
+      ],
+      "categoryId": 3
     },
     {
       "id": 21,
@@ -361,7 +381,8 @@
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1659973520/696592_ZAJDO_4670_001_100_0000_Light-Floral-jacquard-armchair.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1659973524/696592_ZAJDO_4670_002_100_0000_Light-Floral-jacquard-armchair.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1659973531/696592_ZAJDO_4670_004_100_0000_Light-Floral-jacquard-armchair.jpg"
-      ]
+      ],
+      "categoryId": 5
     },
     {
       "id": 22,
@@ -377,7 +398,8 @@
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1554750913/528279_ZAB9Y_1226_001_100_0000_Light-GG-jacquard-armchair.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1554750913/528279_ZAB9Y_1226_004_100_0000_Light-GG-jacquard-armchair.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1554750913/528279_ZAB9Y_1226_005_100_0000_Light-GG-jacquard-armchair.jpg"
-      ]
+      ],
+      "categoryId": 5
     },
     {
       "id": 23,
@@ -393,7 +415,8 @@
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1562168706/589681_ZACS9_6235_001_100_0000_Light-Capitonn-camelback-sofa.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1562168706/589681_ZACS9_6235_004_100_0000_Light-Capitonn-camelback-sofa.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1562168706/589681_ZACS9_6235_005_100_0000_Light-Capitonn-camelback-sofa.jpg"
-      ]
+      ],
+      "categoryId": 5
     },
     {
       "id": 24,
@@ -409,7 +432,8 @@
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1659975352/527770_ZAW54_3608_003_100_0000_Light-Hooded-Capitonn-armchair.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1659975354/527770_ZAW54_3608_004_100_0000_Light-Hooded-Capitonn-armchair.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1659975357/527770_ZAW54_3608_005_100_0000_Light-Hooded-Capitonn-armchair.jpg"
-      ]
+      ],
+      "categoryId": 5
     },
     {
       "id": 25,
@@ -425,7 +449,8 @@
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1504035012/483918_ZAW10_6125_001_100_0000_Light-Wood-chair-with-embroidered-bee.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1504035012/483918_ZAW10_6125_002_100_0000_Light-Wood-chair-with-embroidered-bee.jpg",
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1504035013/483918_ZAW10_6125_004_100_0000_Light-Wood-chair-with-embroidered-bee.jpg"
-      ]
+      ],
+      "categoryId": 5
     }
   ]
 }
