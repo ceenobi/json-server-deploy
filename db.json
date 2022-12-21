@@ -3,22 +3,22 @@
     {
       "id": 1,
       "name": "Fashion",
-      "image": "https://res.cloudinary.com/ceenobi/image/upload/v1639128905/Fashion/c673487_XKB2N_8011_002_100_0000_Light-Cable-knit-cardigan-with-Web_f9sgfc.jpg"
+      "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1671606114/Fashion/nordwood-themes-Nv4QHkTVEaI-unsplash_xynqpl.jpg"
     },
     {
       "id": 2,
       "name": "Watches",
-      "image": "https://res.cloudinary.com/ceenobi/image/upload/v1641862278/Fashion/681832_ICXA0_8605_008_100_0000_Light-G-Timeless-watch-38mm_cwnnta.webp"
+      "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1640290703/Fashion/tsaush-aKmyHlgB09o-unsplash_hxkag6.jpg"
     },
     {
       "id": 3,
       "name": "Beauty",
-      "image": "https://media.gucci.com/content/BlockQuote_Standard_732x732/1612791902/BlockQuote_beauty-glitter-6454309PL119402_001_Default.jpg"
+      "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1671606296/Fashion/download_kl88to.jpg"
     },
     {
       "id": 4,
       "name": "Earpiece",
-      "image": "https://res.cloudinary.com/ceenobi/image/upload/v1629976310/Gadgets/bbd.hpthumb.fazepowerbeatspro.desktoptall.jpg.large.2x_c8lo3p.jpg"
+      "image": "https://res.cloudinary.com/ceenobi/image/upload/v1629973480/Gadgets/bbd.hpthumb.beatsflex.desktopwide.jpg.large.2x_mnmqa3.jpg"
     },
     {
       "id": 5,
@@ -35,7 +35,7 @@
       "category": {
         "id": 2,
         "name": "Watches",
-        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1641862278/Fashion/681832_ICXA0_8605_008_100_0000_Light-G-Timeless-watch-38mm_cwnnta.webp"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1640290703/Fashion/tsaush-aKmyHlgB09o-unsplash_hxkag6.jpg"
       },
       "images": [
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1567584906/596512_I1600_8504_001_100_0000_Light-Grip-watch-38mm.jpg",
@@ -52,7 +52,7 @@
       "category": {
         "id": 1,
         "name": "Fashion",
-        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1639128905/Fashion/c673487_XKB2N_8011_002_100_0000_Light-Cable-knit-cardigan-with-Web_f9sgfc.jpg"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1671606114/Fashion/nordwood-themes-Nv4QHkTVEaI-unsplash_xynqpl.jpg"
       },
       "images": [
         "https://media.gucci.com/style/DarkGray_South_0_160_540x540/1670954450/729362_XKC0G_9118_001_100_0000_Light-Wool-knit-hooded-bomber.jpg",
@@ -69,7 +69,7 @@
       "category": {
         "id": 2,
         "name": "Watches",
-        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1641862278/Fashion/681832_ICXA0_8605_008_100_0000_Light-G-Timeless-watch-38mm_cwnnta.webp"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1640290703/Fashion/tsaush-aKmyHlgB09o-unsplash_hxkag6.jpg"
       },
       "images": [
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1664471777/717879_J810A_9573_001_100_0000_Light-GUCCI-25H-watch-40mm.jpg",
@@ -86,7 +86,7 @@
       "category": {
         "id": 4,
         "name": "Earpiece",
-        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1629976310/Gadgets/bbd.hpthumb.fazepowerbeatspro.desktoptall.jpg.large.2x_c8lo3p.jpg"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1629973480/Gadgets/bbd.hpthumb.beatsflex.desktopwide.jpg.large.2x_mnmqa3.jpg"
       },
       "images": [
         "https://res.cloudinary.com/ceenobi/image/upload/b_rgb:e5e0e0/v1630107522/Gadgets/beatsflex-global-blue.png.large.2x_ago5h1.png",
@@ -103,7 +103,7 @@
       "category": {
         "id": 1,
         "name": "Fashion",
-        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1639128905/Fashion/c673487_XKB2N_8011_002_100_0000_Light-Cable-knit-cardigan-with-Web_f9sgfc.jpg"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1671606114/Fashion/nordwood-themes-Nv4QHkTVEaI-unsplash_xynqpl.jpg"
       },
       "images": [
         "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_1200x1200/1669920428/724770_XKCWH_8050_001_100_0000_Light-Striped-jacquard-wool-knit-sweater.jpg",
@@ -120,7 +120,7 @@
       "category": {
         "id": 1,
         "name": "Fashion",
-        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1639128905/Fashion/c673487_XKB2N_8011_002_100_0000_Light-Cable-knit-cardigan-with-Web_f9sgfc.jpg"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1671606114/Fashion/nordwood-themes-Nv4QHkTVEaI-unsplash_xynqpl.jpg"
       },
       "images": [
         "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_1200x1200/1669919497/729380_XKC0J_7021_001_100_0000_Light-GG-jacquard-wool-knit-sweater.jpg",
@@ -137,7 +137,7 @@
       "category": {
         "id": 1,
         "name": "Fashion",
-        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1639128905/Fashion/c673487_XKB2N_8011_002_100_0000_Light-Cable-knit-cardigan-with-Web_f9sgfc.jpg"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1671606114/Fashion/nordwood-themes-Nv4QHkTVEaI-unsplash_xynqpl.jpg"
       },
       "images": [
         "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_1200x1200/1669660216/722473_Z6519_4440_001_100_0000_Light-Light-cashmere-twill-formal-jacket.jpg",
@@ -154,7 +154,7 @@
       "category": {
         "id": 1,
         "name": "Fashion",
-        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1639128905/Fashion/c673487_XKB2N_8011_002_100_0000_Light-Cable-knit-cardigan-with-Web_f9sgfc.jpg"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1671606114/Fashion/nordwood-themes-Nv4QHkTVEaI-unsplash_xynqpl.jpg"
       },
       "images": [
         "https://media.gucci.com/style/HEXF1E9FB_Center_0_0_1200x1200/1669921332/721273_ZAK72_1165_001_100_0000_Light-Wool-cashmere-formal-jacket.jpg",
@@ -171,7 +171,7 @@
       "category": {
         "id": 1,
         "name": "Fashion",
-        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1639128905/Fashion/c673487_XKB2N_8011_002_100_0000_Light-Cable-knit-cardigan-with-Web_f9sgfc.jpg"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1671606114/Fashion/nordwood-themes-Nv4QHkTVEaI-unsplash_xynqpl.jpg"
       },
       "images": [
         "https://media.gucci.com/style/HEXEAF2DC_Center_0_0_1200x1200/1646244035/659983_UULBT_9683_002_078_0000_Light-Small-tote-bag-with-Interlocking-G.jpg",
@@ -188,7 +188,7 @@
       "category": {
         "id": 1,
         "name": "Fashion",
-        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1639128905/Fashion/c673487_XKB2N_8011_002_100_0000_Light-Cable-knit-cardigan-with-Web_f9sgfc.jpg"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1671606114/Fashion/nordwood-themes-Nv4QHkTVEaI-unsplash_xynqpl.jpg"
       },
       "images": [
         "https://media.gucci.com/style/HEXEAF2DC_Center_0_0_1200x1200/1654726537/631685_UM8IG_2546_001_100_0000_Light-GG-Matelass-medium-tote.jpg",
@@ -205,7 +205,7 @@
       "category": {
         "id": 2,
         "name": "Watches",
-        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1641862278/Fashion/681832_ICXA0_8605_008_100_0000_Light-G-Timeless-watch-38mm_cwnnta.webp"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1640290703/Fashion/tsaush-aKmyHlgB09o-unsplash_hxkag6.jpg"
       },
       "images": [
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1583149504/632116_I1600_1402_001_100_0000_Light-G-Timeless-watch-36mm.jpg",
@@ -222,7 +222,7 @@
       "category": {
         "id": 2,
         "name": "Watches",
-        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1641862278/Fashion/681832_ICXA0_8605_008_100_0000_Light-G-Timeless-watch-38mm_cwnnta.webp"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1640290703/Fashion/tsaush-aKmyHlgB09o-unsplash_hxkag6.jpg"
       },
       "images": [
         "https://media.gucci.com/style/HEXE0E8E5_Center_0_0_1200x1200/1663344092/717868_I86A0_9793_001_100_0000_Light-G-Timeless-watch-with-bee-29-mm.jpg",
@@ -239,7 +239,7 @@
       "category": {
         "id": 3,
         "name": "Beauty",
-        "image": "https://media.gucci.com/content/BlockQuote_Standard_732x732/1612791902/BlockQuote_beauty-glitter-6454309PL119402_001_Default.jpg"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1671606296/Fashion/download_kl88to.jpg"
       },
       "images": [
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1632268804/679170_9PLP8_9520_001_100_0000_Light-520-Marina-Scarlet-Limited-Edition-Rouge-Lvres-Voile.jpg",
@@ -256,7 +256,7 @@
       "category": {
         "id": 3,
         "name": "Beauty",
-        "image": "https://media.gucci.com/content/BlockQuote_Standard_732x732/1612791902/BlockQuote_beauty-glitter-6454309PL119402_001_Default.jpg"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1671606296/Fashion/download_kl88to.jpg"
       },
       "images": [
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1611680408/662407_9PPL2_9004_001_100_0000_Light-04-Crayon-Contour-des-Lvres-Lip-Liner-Pencil.jpg",
@@ -273,7 +273,7 @@
       "category": {
         "id": 4,
         "name": "Earpiece",
-        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1629976310/Gadgets/bbd.hpthumb.fazepowerbeatspro.desktoptall.jpg.large.2x_c8lo3p.jpg"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1629973480/Gadgets/bbd.hpthumb.beatsflex.desktopwide.jpg.large.2x_mnmqa3.jpg"
       },
       "images": [
         "https://res.cloudinary.com/ceenobi/image/upload/v1630068876/Gadgets/studiobuds-global-red.png.large.2x_x3kydk.png",
@@ -290,12 +290,12 @@
       "category": {
         "id": 4,
         "name": "Earpiece",
-        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1629976310/Gadgets/bbd.hpthumb.fazepowerbeatspro.desktoptall.jpg.large.2x_c8lo3p.jpg"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1629973480/Gadgets/bbd.hpthumb.beatsflex.desktopwide.jpg.large.2x_mnmqa3.jpg"
       },
       "images": [
         "https://res.cloudinary.com/ceenobi/image/upload/v1655239053/Gadgets/APPACCAIRPODSPROL20213_dbocxv.png",
         "https://res.cloudinary.com/ceenobi/image/upload/v1655243350/Gadgets/airpods_pro_2_gmkrks.jpg",
-        "https://res.cloudinary.com/ceenobi/image/upload/v1655235521/Gadgets/Air2_rj4fuq.png"
+        "https://res.cloudinary.com/ceenobi/image/upload/v1627989203/Gadgets/insung-yoon-pCLu1XhmGiU-unsplash_knubql.jpg"
       ],
       "categoryId": 4
     },
@@ -307,7 +307,7 @@
       "category": {
         "id": 4,
         "name": "Earpiece",
-        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1629976310/Gadgets/bbd.hpthumb.fazepowerbeatspro.desktoptall.jpg.large.2x_c8lo3p.jpg"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1629973480/Gadgets/bbd.hpthumb.beatsflex.desktopwide.jpg.large.2x_mnmqa3.jpg"
       },
       "images": [
         "https://res.cloudinary.com/ceenobi/image/upload/v1627861194/Gadgets/big-GA01470-US_xdhnza.jpg",
@@ -324,7 +324,7 @@
       "category": {
         "id": 4,
         "name": "Earpiece",
-        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1629976310/Gadgets/bbd.hpthumb.fazepowerbeatspro.desktoptall.jpg.large.2x_c8lo3p.jpg"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1629973480/Gadgets/bbd.hpthumb.beatsflex.desktopwide.jpg.large.2x_mnmqa3.jpg"
       },
       "images": [
         "https://res.cloudinary.com/ceenobi/image/upload/b_rgb:dadada/v1630110963/Gadgets/pp-global-producttile-glacierblue.png.large.2x_i49q3u.png",
@@ -341,7 +341,7 @@
       "category": {
         "id": 1,
         "name": "Fashion",
-        "image": "https://res.cloudinary.com/ceenobi/image/upload/v1639128905/Fashion/c673487_XKB2N_8011_002_100_0000_Light-Cable-knit-cardigan-with-Web_f9sgfc.jpg"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1671606114/Fashion/nordwood-themes-Nv4QHkTVEaI-unsplash_xynqpl.jpg"
       },
       "images": [
         "https://media.gucci.com/style/HEXEAF2DC_Center_0_0_1200x1200/1645746328/678842_U3ZDT_9982_001_082_0000_Light-Gucci-Diana-medium-tote-bag.jpg",
@@ -358,7 +358,7 @@
       "category": {
         "id": 3,
         "name": "Beauty",
-        "image": "https://media.gucci.com/content/BlockQuote_Standard_732x732/1612791902/BlockQuote_beauty-glitter-6454309PL119402_001_Default.jpg"
+        "image": "https://res.cloudinary.com/ceenobi/image/upload/f_auto,q_auto/v1671606296/Fashion/download_kl88to.jpg"
       },
       "images": [
         "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1643737549/691790_9PRD9_9607_001_100_0000_Light-607-Vanessa-Violet-Rouge-Lvres-Liquide-Mat-Lipstick.jpg",
